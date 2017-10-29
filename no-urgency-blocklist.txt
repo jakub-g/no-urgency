@@ -1,3 +1,5 @@
+[Adblock Plus 2.0]
+! Title: No Urgency
 ! The goal of this list is to remove fake urgency messages like "11 people looking now",
 ! "in high demand!" from hotel, flight and other booking sites.
 www.easyjet.com##.message-carousel
