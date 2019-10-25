@@ -21,3 +21,7 @@ From the uBlock extension pop-up:
 - Paste `https://raw.githubusercontent.com/jakub-g/no-urgency/master/no-urgency-blocklist.txt`
 
 You should now have an additional Custom list called "No Urgency" that will stay up-to-date.
+
+## Alternatives
+
+- [No Stress Booking Chrome extension](https://chrome.google.com/webstore/detail/no-stress-booking/kkfmoaflbacidmgmkddkhjfdepckmggg)
